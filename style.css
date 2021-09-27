@@ -39,10 +39,19 @@ footer a {
     justify-content: space-around;
     height: 200px;
 }
+#content-2 {
+    background-color: rgb(213, 183, 255);
+    flex: 2;
+}
 
 #content-1 a {
     color: blueviolet;
     font-size: 1.2rem;
+}
+#content-3 {
+    background-color: rgb(169, 241, 249);
+    flex: 1;
+    margin-right: 0;
 }
 
 #content-3  ul li{
